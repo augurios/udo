@@ -1,0 +1,31 @@
+{
+  "name": "udo-server",
+  "homepage": "https://github.com/augurios/udo",
+  "authors": [
+    "Augusto Valerio <auguvalerio@gmail.com>"
+  ],
+  "description": "udo-app",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap-sass-official": "^3.2.0",
+    "angular-animate": "^1.4.0",
+    "angular-aria": "^1.4.0",
+    "angular-cookies": "^1.4.0",
+    "angular-messages": "^1.4.0",
+    "angular-resource": "^1.4.0",
+    "angular-sanitize": "^1.4.*",
+    "angular-touch": "^1.4.0",
+    "bootstrap": "~3.3.5"
+  }
+}
